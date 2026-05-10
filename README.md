@@ -1,4 +1,4 @@
-# Gilhoon Go
+# Gilhoon Ko
 
 > Embedded SW Engineer focused on SDV, Automotive System Architecture, and Real-Time Data Flow Design
 
